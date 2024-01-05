@@ -10,4 +10,4 @@ def home():
 
 
 
-app.run(host="0.0.0.0",port=42242)
+app.run(host="0.0.0.0",port=24379)
